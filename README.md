@@ -51,6 +51,13 @@ Current build status
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/geopolars-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_python_mintruepython3.11.____cpython" alt="variant">
                 </a>
               </td>
+            </tr><tr>
+              <td>osx_arm64_is_python_mintruepython3.11.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=29503&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/geopolars-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_python_mintruepython3.11.____cpython" alt="variant">
+                </a>
+              </td>
             </tr>
           </tbody>
         </table>
